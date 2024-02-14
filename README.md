@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fskhan19&show_icons=true&locale=en" alt="fskhan19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fskhan19&" alt="fskhan19" />
-<a href="https://app.daily.dev/farhanshahid"><img src="https://api.daily.dev/devcards/af0f436fd5e641f888396b5f54a85250.png?r=j22" width="400" alt="Farhan Shahid's Dev Card"/></a>                                                                                                                                                                               
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fskhan19&" alt="fskhan19" /></p>
+
+<p><a href="https://app.daily.dev/farhanshahid"><img src="https://api.daily.dev/devcards/af0f436fd5e641f888396b5f54a85250.png?r=j22" width="400" alt="Farhan Shahid's Dev Card"/></a>   </p>
 
